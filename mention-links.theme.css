@@ -1,11 +1,8 @@
 /**
- * @name CreArts | Mention Links 
- * @version 1.0.1
- * @author CorellanStoma#1996
- * @authorLink https://crearts-community.github.io
- * @description Mention-Links changes the appearance of links.
- * @source https://crearts-community.github.io/Mention-Links
- * @invite 8w8e39z
+ * @name mentionlinks 
+ * @version 1.0.2
+ * @author CorellanStoma#1996, SmolAlli#2706
+ * @description Changes the appearance of links.
 */
 
-@import url("https://crearts-community.github.io/Mention-Links/clients/betterdiscord.css");
+@import url("https://smolalli.github.io/mentionlinks/src/source.css");

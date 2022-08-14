@@ -1,8 +1,7 @@
 {
-  "name": "CreArts | Mention-Links",
-  "version": "1.0.1",
-  "author": "CorellanStoma#1996",
-  "description": "Mention-Links changes the appearance of links.",
-  "license": "MIT",
-  "theme": "clients/vizality.css"
+  "name": "mentionlinks",
+  "version": "1.0.2",
+  "author": "CorellanStoma#1996, SmolAlli#2706",
+  "description": "Changes the appearance of links.",
+  "theme": "src/source.css"
 }
