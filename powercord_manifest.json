@@ -3,5 +3,6 @@
   "version": "1.0.2",
   "author": "CorellanStoma#1996, SmolAlli#2706",
   "description": "Changes the appearance of links.",
+  "license": "",
   "theme": "src/source.css"
 }

@@ -2853,7 +2853,7 @@ html[lang=de] {
 
 html[lang=en-GB],
 html[lang=en-US] {
-  --jump-to: "Open";
+  --jump-to: "Open link to";
 }
 
 html[lang=es-ES] {
@@ -2959,5 +2959,3 @@ html[lang=zh-TW] {
 html[lang=ko] {
   --jump-to: "이동";
 }
-
-/*# sourceMappingURL=source.css.map */
